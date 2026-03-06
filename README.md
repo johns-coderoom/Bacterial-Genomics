@@ -1,11 +1,15 @@
 # Bacterial-Genomics 
 TIME FOR ANALYSIS
+
 Step 1: Download data.
 ./download_data.sh
+
 Step 2: Perform QC on the raw reads
 ./qc_raw_reads.sh
+
 Step 3: Trim reads using sickle
 ./trim_reads.sh
+
 Step 4: Perform QC on the trimmed reads
  ./qc_trimmed_reads.sh
 
