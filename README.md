@@ -1,3 +1,5 @@
+<img width="310" height="163" alt="images" src="https://github.com/user-attachments/assets/965be5bd-9b2f-402b-adf3-e8f479c487db" />
+
 # Bacterial-Genomics 
 TIME FOR ANALYSIS
 
